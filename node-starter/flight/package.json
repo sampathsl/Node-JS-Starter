@@ -1,0 +1,12 @@
+
+{
+  "name": "flight",
+  "version": "0.0.1",
+  "description": "Flight module - Get the unique flight information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sampath Thennakoon <sampath.thennakoon@gmail.com>",
+  "license": "ISC"
+}
