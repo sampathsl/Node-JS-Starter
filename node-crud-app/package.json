@@ -1,6 +1,6 @@
 {
-  "name": "nodewebapp",
-  "version": "0.0.0",
+  "name": "node-crud-app",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"

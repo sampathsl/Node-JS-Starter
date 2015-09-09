@@ -2,6 +2,10 @@ extends ../layout
 block content
     h1.
         #{title}
+    p
+      span
+          a(href='/blobs/new') New
+
     ul
     each blob , i in blobs
         li
@@ -25,5 +29,5 @@ block content
                     a(href='/blobs/#{blob._id}/edit') Edit
                 span
                     a(href='/blobs/#{blob._id}') Show
-                span
-                    a(href='/blobs/new') New
+                
+                    
