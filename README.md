@@ -19,8 +19,8 @@ https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skelet
    npm install -g method-override  
 
 #Mongo DB 
-   mongo  
-   >show dbs  
-   >use sampath  
+   $mongo   
+   >show dbs    
+   >use sampath    
    >db.users.save( {username:"sampath"} )  
    >show dbs  
